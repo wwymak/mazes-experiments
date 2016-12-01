@@ -27,17 +27,19 @@ function Grid(rows, columns) {
             arr.forEach(cell => {
                 var col = cell.column;
                 var row = cell.row;
+                console.log(col, row)
                 cell.setNeighbours(arrAccessor(row-1,col),
                     arrAccessor(row + 1, col),
-                    arrAccessor(row, col -1),
-                    arrAccessor(row, col + 1)
+                    arrAccessor(row, col + 1),
+                    arrAccessor(row, col - 1)
                 )
             })
         })
     }
 
     function arrAccessor(row, column){
-        if(row >= 0 && row < rows -1  && column >= 0 && column < gridInstance.grid[row].length - 1 ) {
+        if(row >= 0 && row < rows  && column >= 0 && column < columns ) {
+        // if(row >= 0 && row < rows -1  && column >= 0 && column < gridInstance.grid[row].length - 1 ) {
             return gridInstance.grid[row][column]
         } else {
             return null;
@@ -50,7 +52,41 @@ function Grid(rows, columns) {
         return gridInstance.grid[row][col];
     }
 
-    return Object.assign(this, {arrAccessor, randomCell})
+    function drawCellAscii(){
+
+        var output = '+' + '---+'.repeat(columns) + '\n';
+        gridInstance.grid.forEach(row => {
+            var top = '|';
+            var bottom = '+';
+            row.forEach(cell => {
+                console.log(Object.keys(cell.links)[0])
+                var neighbors = cell.getNeighbours();
+                cell.neighbours = neighbors;
+                var body = '   ';
+                var eastBoundary;
+                var southBoundary;
+                if(neighbors.east && cell.isLinked(neighbors.east) == true) {
+                    eastBoundary = ' ';
+                } else {
+                    eastBoundary = '|'
+                }
+                if(cell.neighbours.south && cell.isLinked(cell.neighbours.south)) {
+                    southBoundary = '   ';
+                } else{
+                    southBoundary  = "---";
+                }
+                top += (body + eastBoundary);
+                bottom += (southBoundary + '+');
+            });
+            output += (top + '\n');
+            output += (bottom + '\n');
+        });
+        console.log(output);
+        return output;
+
+    }
+
+    return Object.assign(this, {arrAccessor, randomCell, drawCellAscii});
 
 
     // console.log(this.grid);

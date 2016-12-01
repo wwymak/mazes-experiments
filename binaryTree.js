@@ -10,8 +10,8 @@ module.exports = function BinaryTree(grid) {
             let cell = row[j];
             let neighbors = cell.getNeighbours();
             let neighborsArr = [];
-            if(neighbors.north) {
-                neighborsArr.push(neighbors.north);
+            if(neighbors.south) {
+                neighborsArr.push(neighbors.south);
             }
             if(neighbors.east) {
                 neighborsArr.push(neighbors.east);

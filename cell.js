@@ -6,7 +6,7 @@ function cell(row, column) {
     var links = {};
     var neighbours = {};
     function link(othercell, bidirectional=true) {
-        console.log(othercell, othercell)
+        // console.log(othercell)
         links[othercell] = true;
         if(bidirectional == true){
             othercell.link(this, false)
@@ -40,7 +40,7 @@ function cell(row, column) {
         return neighbours;
     }
 
-    return Object.assign(this, {link, unlink, getLinks, isLinked, setNeighbours, getNeighbours})
+    return Object.assign(this, {link, unlink, getLinks, isLinked, setNeighbours, getNeighbours, links, neighbours})
 
 }
 

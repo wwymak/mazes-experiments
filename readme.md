@@ -1,0 +1,1 @@
+Experiments on mazes (following along the Jamis Buck's book 'Mazes for Programmers')
