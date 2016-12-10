@@ -10,14 +10,16 @@ module.exports = function BinaryTree(grid) {
             let cell = row[j];
             let neighbors = cell.getNeighbours();
             let neighborsArr = [];
+            let linkedCell;
             if(neighbors.south) {
                 neighborsArr.push(neighbors.south);
             }
             if(neighbors.east) {
                 neighborsArr.push(neighbors.east);
             }
-            let linkedCell = neighborsArr[utils.getRandomInt(0, neighborsArr.length)]
-            // console.log(linkedCell, 'linkedCell');
+            if(neighborsArr.length > 0) {
+                linkedCell = neighborsArr[utils.getRandomInt(0, neighborsArr.length)];
+            }
             if(linkedCell) {
                 cell.link(linkedCell);
             }

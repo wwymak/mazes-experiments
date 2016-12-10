@@ -27,14 +27,14 @@ function Grid(rows, columns) {
             arr.forEach(cell => {
                 var col = cell.column;
                 var row = cell.row;
-                console.log(col, row)
                 cell.setNeighbours(arrAccessor(row-1,col),
                     arrAccessor(row + 1, col),
                     arrAccessor(row, col + 1),
                     arrAccessor(row, col - 1)
-                )
+                );
+                // console.log(cell.getNeighbours(), cell.neighbours);
             })
-        })
+        });
     }
 
     function arrAccessor(row, column){
@@ -59,7 +59,7 @@ function Grid(rows, columns) {
             var top = '|';
             var bottom = '+';
             row.forEach(cell => {
-                console.log(Object.keys(cell.links)[0])
+                // console.log('cell links', cell.getLinks(), cell.id);
                 var neighbors = cell.getNeighbours();
                 cell.neighbours = neighbors;
                 var body = '   ';
