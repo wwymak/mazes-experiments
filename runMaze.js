@@ -10,4 +10,5 @@ var sideWindered = sideWinder(b);
 // console.log(linked.grid[0][0], linked.grid[0][0].links, Object.keys(linked.grid[0][0]), 'linked');
 // console.log(a.grid[0][0], a.grid[1][2]);
 a.drawCellAscii();
-b.drawCellAscii();
+// b.drawCellAscii();
+a.exportGridAsJson();
