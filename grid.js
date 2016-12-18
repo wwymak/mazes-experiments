@@ -90,8 +90,6 @@ function Grid(rows, columns) {
         let output = {};
         gridInstance.grid.forEach((row, rowIndex) => {
             output[rowIndex] = {};
-            var top = '|';
-            var bottom = '+';
             row.forEach((cell, cellIndex) => {
                 output[rowIndex][cellIndex] = {};
                 output[rowIndex][cellIndex].links = [];
@@ -104,18 +102,47 @@ function Grid(rows, columns) {
                     output[rowIndex][cellIndex].links.push({row: rowIndex + 1, cell: cellIndex });
                 }
                 if(cell.neighbours.west && cell.isLinked(cell.neighbours.west)) {
-                    output[rowIndex][cellIndex].links.push({row: rowIndex, cell: cellIndex - 1});
+                    // output[rowIndex][cellIndex].links.push({row: rowIndex, cell: cellIndex - 1});
+                    output[rowIndex][cellIndex].links.push({row: rowIndex, cell: cellIndex});
                 }
                 if(cell.neighbours.north && cell.isLinked(cell.neighbours.north)) {
-                    output[rowIndex][cellIndex].links.push({row: rowIndex - 1, cell: cellIndex });
+                    output[rowIndex][cellIndex].links.push({row: rowIndex , cell: cellIndex });
+                    // output[rowIndex][cellIndex].links.push({row: rowIndex - 1, cell: cellIndex });
                 }
-                console.log(output[rowIndex][cellIndex].links )
             });
         });
-        return output;
+        return JSON.stringify(output);
     }
 
-    return Object.assign(this, {arrAccessor, randomCell, drawCellAscii, exportGridAsJson});
+    function exportGridForDraw() {
+        let output = {};
+        gridInstance.grid.forEach((row, rowIndex) => {
+            output[rowIndex] = {};
+            row.forEach((cell, cellIndex) => {
+                output[rowIndex][cellIndex] = {};
+                output[rowIndex][cellIndex].links = [];
+                let neighbors = cell.getNeighbours();
+                cell.neighbours = neighbors;
+                if(neighbors.east && cell.isLinked(neighbors.east) == true) {
+                    output[rowIndex][cellIndex].links.push("east");
+                }
+                if(cell.neighbours.south && cell.isLinked(cell.neighbours.south)) {
+                    output[rowIndex][cellIndex].links.push("south");
+                }
+                if(cell.neighbours.west && cell.isLinked(cell.neighbours.west)) {
+                    // output[rowIndex][cellIndex].links.push({row: rowIndex, cell: cellIndex - 1});
+                    output[rowIndex][cellIndex].links.push("west");
+                }
+                if(cell.neighbours.north && cell.isLinked(cell.neighbours.north)) {
+                    output[rowIndex][cellIndex].links.push("north");
+                    // output[rowIndex][cellIndex].links.push({row: rowIndex - 1, cell: cellIndex });
+                }
+            });
+        });
+        return JSON.stringify(output, null, 4);
+    }
+
+    return Object.assign(this, {arrAccessor, randomCell, drawCellAscii, exportGridAsJson, exportGridForDraw});
 
 
     // console.log(this.grid);

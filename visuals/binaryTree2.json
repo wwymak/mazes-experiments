@@ -1,0 +1,3800 @@
+{
+    "0": {
+        "0": {
+            "links": [
+                "east"
+            ]
+        },
+        "1": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "2": {
+            "links": [
+                "south"
+            ]
+        },
+        "3": {
+            "links": [
+                "south"
+            ]
+        },
+        "4": {
+            "links": [
+                "east"
+            ]
+        },
+        "5": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "6": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "7": {
+            "links": [
+                "east"
+            ]
+        },
+        "8": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "9": {
+            "links": [
+                "east"
+            ]
+        },
+        "10": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "11": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "12": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "13": {
+            "links": [
+                "south"
+            ]
+        },
+        "14": {
+            "links": [
+                "south"
+            ]
+        },
+        "15": {
+            "links": [
+                "south"
+            ]
+        },
+        "16": {
+            "links": [
+                "south"
+            ]
+        },
+        "17": {
+            "links": [
+                "east"
+            ]
+        },
+        "18": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "19": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "20": {
+            "links": [
+                "east"
+            ]
+        },
+        "21": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "22": {
+            "links": [
+                "east"
+            ]
+        },
+        "23": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "24": {
+            "links": [
+                "south"
+            ]
+        }
+    },
+    "1": {
+        "0": {
+            "links": [
+                "east"
+            ]
+        },
+        "1": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "2": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "3": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "4": {
+            "links": [
+                "east"
+            ]
+        },
+        "5": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "6": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "7": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "8": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "9": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "10": {
+            "links": [
+                "south"
+            ]
+        },
+        "11": {
+            "links": [
+                "east"
+            ]
+        },
+        "12": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "13": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "14": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "15": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "16": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "17": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "18": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "19": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "20": {
+            "links": [
+                "east"
+            ]
+        },
+        "21": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "22": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "23": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "24": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        }
+    },
+    "2": {
+        "0": {
+            "links": [
+                "south"
+            ]
+        },
+        "1": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "2": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "3": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "4": {
+            "links": [
+                "south"
+            ]
+        },
+        "5": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "6": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "7": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "8": {
+            "links": [
+                "south"
+            ]
+        },
+        "9": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "10": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "11": {
+            "links": [
+                "south"
+            ]
+        },
+        "12": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "13": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "14": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "15": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "16": {
+            "links": [
+                "east"
+            ]
+        },
+        "17": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "18": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "19": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "20": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "21": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "22": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "23": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "24": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        }
+    },
+    "3": {
+        "0": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "1": {
+            "links": [
+                "south"
+            ]
+        },
+        "2": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "3": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "4": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "5": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "6": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "7": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "8": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "9": {
+            "links": [
+                "south"
+            ]
+        },
+        "10": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "11": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "12": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "13": {
+            "links": [
+                "east"
+            ]
+        },
+        "14": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "15": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "16": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "17": {
+            "links": [
+                "east"
+            ]
+        },
+        "18": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "19": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "20": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "21": {
+            "links": [
+                "south"
+            ]
+        },
+        "22": {
+            "links": [
+                "south"
+            ]
+        },
+        "23": {
+            "links": [
+                "east"
+            ]
+        },
+        "24": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        }
+    },
+    "4": {
+        "0": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "1": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "2": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "3": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "4": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "5": {
+            "links": [
+                "east"
+            ]
+        },
+        "6": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "7": {
+            "links": [
+                "east"
+            ]
+        },
+        "8": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "9": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "10": {
+            "links": [
+                "south"
+            ]
+        },
+        "11": {
+            "links": [
+                "east"
+            ]
+        },
+        "12": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "13": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "14": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "15": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "16": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "17": {
+            "links": [
+                "south"
+            ]
+        },
+        "18": {
+            "links": [
+                "south"
+            ]
+        },
+        "19": {
+            "links": [
+                "south"
+            ]
+        },
+        "20": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "21": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "22": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "23": {
+            "links": [
+                "east"
+            ]
+        },
+        "24": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        }
+    },
+    "5": {
+        "0": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "1": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "2": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "3": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "4": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "5": {
+            "links": [
+                "east"
+            ]
+        },
+        "6": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "7": {
+            "links": [
+                "south"
+            ]
+        },
+        "8": {
+            "links": [
+                "south"
+            ]
+        },
+        "9": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "10": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "11": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "12": {
+            "links": [
+                "east"
+            ]
+        },
+        "13": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "14": {
+            "links": [
+                "east"
+            ]
+        },
+        "15": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "16": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "17": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "18": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "19": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "20": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "21": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "22": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "23": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "24": {
+            "links": [
+                "south",
+                "north"
+            ]
+        }
+    },
+    "6": {
+        "0": {
+            "links": [
+                "south"
+            ]
+        },
+        "1": {
+            "links": [
+                "east"
+            ]
+        },
+        "2": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "3": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "4": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "5": {
+            "links": [
+                "east"
+            ]
+        },
+        "6": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "7": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "8": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "9": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "10": {
+            "links": [
+                "east"
+            ]
+        },
+        "11": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "12": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "13": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "14": {
+            "links": [
+                "east"
+            ]
+        },
+        "15": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "16": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "17": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "18": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "19": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "20": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "21": {
+            "links": [
+                "east"
+            ]
+        },
+        "22": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "23": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "24": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        }
+    },
+    "7": {
+        "0": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "1": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "2": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "3": {
+            "links": [
+                "east"
+            ]
+        },
+        "4": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "5": {
+            "links": [
+                "south"
+            ]
+        },
+        "6": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "7": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "8": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "9": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "10": {
+            "links": [
+                "south"
+            ]
+        },
+        "11": {
+            "links": [
+                "east"
+            ]
+        },
+        "12": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "13": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "14": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "15": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "16": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "17": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "18": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "19": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "20": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "21": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "22": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "23": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "24": {
+            "links": [
+                "south",
+                "north"
+            ]
+        }
+    },
+    "8": {
+        "0": {
+            "links": [
+                "south"
+            ]
+        },
+        "1": {
+            "links": [
+                "east"
+            ]
+        },
+        "2": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "3": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "4": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "5": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "6": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "7": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "8": {
+            "links": [
+                "south"
+            ]
+        },
+        "9": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "10": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "11": {
+            "links": [
+                "south"
+            ]
+        },
+        "12": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "13": {
+            "links": [
+                "east"
+            ]
+        },
+        "14": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "15": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "16": {
+            "links": [
+                "south"
+            ]
+        },
+        "17": {
+            "links": [
+                "south"
+            ]
+        },
+        "18": {
+            "links": [
+                "south"
+            ]
+        },
+        "19": {
+            "links": [
+                "south"
+            ]
+        },
+        "20": {
+            "links": [
+                "south"
+            ]
+        },
+        "21": {
+            "links": [
+                "east"
+            ]
+        },
+        "22": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "23": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "24": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        }
+    },
+    "9": {
+        "0": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "1": {
+            "links": [
+                "east"
+            ]
+        },
+        "2": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "3": {
+            "links": [
+                "south"
+            ]
+        },
+        "4": {
+            "links": [
+                "east"
+            ]
+        },
+        "5": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "6": {
+            "links": [
+                "south"
+            ]
+        },
+        "7": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "8": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "9": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "10": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "11": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "12": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "13": {
+            "links": [
+                "south"
+            ]
+        },
+        "14": {
+            "links": [
+                "east"
+            ]
+        },
+        "15": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "16": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "17": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "18": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "19": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "20": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "21": {
+            "links": [
+                "south"
+            ]
+        },
+        "22": {
+            "links": [
+                "south"
+            ]
+        },
+        "23": {
+            "links": [
+                "east"
+            ]
+        },
+        "24": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        }
+    },
+    "10": {
+        "0": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "1": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "2": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "3": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "4": {
+            "links": [
+                "south"
+            ]
+        },
+        "5": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "6": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "7": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "8": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "9": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "10": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "11": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "12": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "13": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "14": {
+            "links": [
+                "east"
+            ]
+        },
+        "15": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "16": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "17": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "18": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "19": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "20": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "21": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "22": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "23": {
+            "links": [
+                "east"
+            ]
+        },
+        "24": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        }
+    },
+    "11": {
+        "0": {
+            "links": [
+                "east"
+            ]
+        },
+        "1": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "2": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "3": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "4": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "5": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "6": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "7": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "8": {
+            "links": [
+                "east"
+            ]
+        },
+        "9": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "10": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "11": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "12": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "13": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "14": {
+            "links": [
+                "east"
+            ]
+        },
+        "15": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "16": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "17": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "18": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "19": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "20": {
+            "links": [
+                "south"
+            ]
+        },
+        "21": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "22": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "23": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "24": {
+            "links": [
+                "south",
+                "north"
+            ]
+        }
+    },
+    "12": {
+        "0": {
+            "links": [
+                "south"
+            ]
+        },
+        "1": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "2": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "3": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "4": {
+            "links": [
+                "east"
+            ]
+        },
+        "5": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "6": {
+            "links": [
+                "south"
+            ]
+        },
+        "7": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "8": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "9": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "10": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "11": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "12": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "13": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "14": {
+            "links": [
+                "south"
+            ]
+        },
+        "15": {
+            "links": [
+                "east"
+            ]
+        },
+        "16": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "17": {
+            "links": [
+                "south"
+            ]
+        },
+        "18": {
+            "links": [
+                "east"
+            ]
+        },
+        "19": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "20": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "21": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "22": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "23": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "24": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        }
+    },
+    "13": {
+        "0": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "1": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "2": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "3": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "4": {
+            "links": [
+                "east"
+            ]
+        },
+        "5": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "6": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "7": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "8": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "9": {
+            "links": [
+                "south"
+            ]
+        },
+        "10": {
+            "links": [
+                "east"
+            ]
+        },
+        "11": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "12": {
+            "links": [
+                "south"
+            ]
+        },
+        "13": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "14": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "15": {
+            "links": [
+                "south"
+            ]
+        },
+        "16": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "17": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "18": {
+            "links": [
+                "south"
+            ]
+        },
+        "19": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "20": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "21": {
+            "links": [
+                "south"
+            ]
+        },
+        "22": {
+            "links": [
+                "east"
+            ]
+        },
+        "23": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "24": {
+            "links": [
+                "south",
+                "north"
+            ]
+        }
+    },
+    "14": {
+        "0": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "1": {
+            "links": [
+                "east"
+            ]
+        },
+        "2": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "3": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "4": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "5": {
+            "links": [
+                "east"
+            ]
+        },
+        "6": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "7": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "8": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "9": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "10": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "11": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "12": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "13": {
+            "links": [
+                "east"
+            ]
+        },
+        "14": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "15": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "16": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "17": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "18": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "19": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "20": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "21": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "22": {
+            "links": [
+                "south"
+            ]
+        },
+        "23": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "24": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        }
+    },
+    "15": {
+        "0": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "1": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "2": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "3": {
+            "links": [
+                "south"
+            ]
+        },
+        "4": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "5": {
+            "links": [
+                "south"
+            ]
+        },
+        "6": {
+            "links": [
+                "south"
+            ]
+        },
+        "7": {
+            "links": [
+                "east"
+            ]
+        },
+        "8": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "9": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "10": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "11": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "12": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "13": {
+            "links": [
+                "east"
+            ]
+        },
+        "14": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "15": {
+            "links": [
+                "east"
+            ]
+        },
+        "16": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "17": {
+            "links": [
+                "south"
+            ]
+        },
+        "18": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "19": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "20": {
+            "links": [
+                "east"
+            ]
+        },
+        "21": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "22": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "23": {
+            "links": [
+                "south"
+            ]
+        },
+        "24": {
+            "links": [
+                "south",
+                "north"
+            ]
+        }
+    },
+    "16": {
+        "0": {
+            "links": [
+                "east"
+            ]
+        },
+        "1": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "2": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "3": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "4": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "5": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "6": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "7": {
+            "links": [
+                "east"
+            ]
+        },
+        "8": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "9": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "10": {
+            "links": [
+                "east"
+            ]
+        },
+        "11": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "12": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "13": {
+            "links": [
+                "south"
+            ]
+        },
+        "14": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "15": {
+            "links": [
+                "east"
+            ]
+        },
+        "16": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "17": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "18": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "19": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "20": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "21": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "22": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "23": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "24": {
+            "links": [
+                "south",
+                "north"
+            ]
+        }
+    },
+    "17": {
+        "0": {
+            "links": [
+                "east"
+            ]
+        },
+        "1": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "2": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "3": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "4": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "5": {
+            "links": [
+                "south"
+            ]
+        },
+        "6": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "7": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "8": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "9": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "10": {
+            "links": [
+                "east"
+            ]
+        },
+        "11": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "12": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "13": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "14": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "15": {
+            "links": [
+                "east"
+            ]
+        },
+        "16": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "17": {
+            "links": [
+                "south"
+            ]
+        },
+        "18": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "19": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "20": {
+            "links": [
+                "east"
+            ]
+        },
+        "21": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "22": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "23": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "24": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        }
+    },
+    "18": {
+        "0": {
+            "links": [
+                "east"
+            ]
+        },
+        "1": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "2": {
+            "links": [
+                "east"
+            ]
+        },
+        "3": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "4": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "5": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "6": {
+            "links": [
+                "south"
+            ]
+        },
+        "7": {
+            "links": [
+                "east"
+            ]
+        },
+        "8": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "9": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "10": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "11": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "12": {
+            "links": [
+                "south"
+            ]
+        },
+        "13": {
+            "links": [
+                "east"
+            ]
+        },
+        "14": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "15": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "16": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "17": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "18": {
+            "links": [
+                "east"
+            ]
+        },
+        "19": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "20": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "21": {
+            "links": [
+                "east"
+            ]
+        },
+        "22": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "23": {
+            "links": [
+                "east"
+            ]
+        },
+        "24": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        }
+    },
+    "19": {
+        "0": {
+            "links": [
+                "east"
+            ]
+        },
+        "1": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "2": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "3": {
+            "links": [
+                "east"
+            ]
+        },
+        "4": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "5": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "6": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "7": {
+            "links": [
+                "south"
+            ]
+        },
+        "8": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "9": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "10": {
+            "links": [
+                "east"
+            ]
+        },
+        "11": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "12": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "13": {
+            "links": [
+                "east"
+            ]
+        },
+        "14": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "15": {
+            "links": [
+                "east"
+            ]
+        },
+        "16": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "17": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "18": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "19": {
+            "links": [
+                "south"
+            ]
+        },
+        "20": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "21": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "22": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "23": {
+            "links": [
+                "east"
+            ]
+        },
+        "24": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        }
+    },
+    "20": {
+        "0": {
+            "links": [
+                "east"
+            ]
+        },
+        "1": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "2": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "3": {
+            "links": [
+                "south"
+            ]
+        },
+        "4": {
+            "links": [
+                "east"
+            ]
+        },
+        "5": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "6": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "7": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "8": {
+            "links": [
+                "east"
+            ]
+        },
+        "9": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "10": {
+            "links": [
+                "south"
+            ]
+        },
+        "11": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "12": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "13": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "14": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "15": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "16": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "17": {
+            "links": [
+                "east"
+            ]
+        },
+        "18": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "19": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "20": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "21": {
+            "links": [
+                "south"
+            ]
+        },
+        "22": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "23": {
+            "links": [
+                "south"
+            ]
+        },
+        "24": {
+            "links": [
+                "south",
+                "north"
+            ]
+        }
+    },
+    "21": {
+        "0": {
+            "links": [
+                "east"
+            ]
+        },
+        "1": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "2": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "3": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "4": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "5": {
+            "links": [
+                "south"
+            ]
+        },
+        "6": {
+            "links": [
+                "south"
+            ]
+        },
+        "7": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "8": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "9": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "10": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "11": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "12": {
+            "links": [
+                "east"
+            ]
+        },
+        "13": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "14": {
+            "links": [
+                "east"
+            ]
+        },
+        "15": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "16": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "17": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "18": {
+            "links": [
+                "south"
+            ]
+        },
+        "19": {
+            "links": [
+                "east"
+            ]
+        },
+        "20": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "21": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "22": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "23": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "24": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        }
+    },
+    "22": {
+        "0": {
+            "links": [
+                "east"
+            ]
+        },
+        "1": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "2": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "3": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "4": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "5": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "6": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "7": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "8": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "9": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "10": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "11": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "12": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "13": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "14": {
+            "links": [
+                "east"
+            ]
+        },
+        "15": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "16": {
+            "links": [
+                "east"
+            ]
+        },
+        "17": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "18": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "19": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "20": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "21": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "22": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "23": {
+            "links": [
+                "south"
+            ]
+        },
+        "24": {
+            "links": [
+                "south",
+                "north"
+            ]
+        }
+    },
+    "23": {
+        "0": {
+            "links": [
+                "east"
+            ]
+        },
+        "1": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "2": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "3": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "4": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "5": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "6": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "7": {
+            "links": [
+                "south"
+            ]
+        },
+        "8": {
+            "links": [
+                "east"
+            ]
+        },
+        "9": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "10": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "11": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "12": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "13": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "14": {
+            "links": [
+                "south",
+                "west"
+            ]
+        },
+        "15": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "16": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "17": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "18": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "19": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "20": {
+            "links": [
+                "south"
+            ]
+        },
+        "21": {
+            "links": [
+                "east",
+                "north"
+            ]
+        },
+        "22": {
+            "links": [
+                "south",
+                "west",
+                "north"
+            ]
+        },
+        "23": {
+            "links": [
+                "south",
+                "north"
+            ]
+        },
+        "24": {
+            "links": [
+                "south",
+                "north"
+            ]
+        }
+    },
+    "24": {
+        "0": {
+            "links": [
+                "east"
+            ]
+        },
+        "1": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "2": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "3": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "4": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "5": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "6": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "7": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "8": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "9": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "10": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "11": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "12": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "13": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "14": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "15": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "16": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "17": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "18": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "19": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "20": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "21": {
+            "links": [
+                "east",
+                "west"
+            ]
+        },
+        "22": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "23": {
+            "links": [
+                "east",
+                "west",
+                "north"
+            ]
+        },
+        "24": {
+            "links": [
+                "west",
+                "north"
+            ]
+        }
+    }
+}
